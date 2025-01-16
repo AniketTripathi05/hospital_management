@@ -2,6 +2,31 @@
 
 
 
+![Image](https://github.com/user-attachments/assets/17de4f3f-c2f3-4496-b7ac-d9089968b17f)
+
+
+
+
+![Image](https://github.com/user-attachments/assets/61bddabe-ebdf-4d88-88c5-9ca62d64b749)
+
+
+
+
+
+
+
+![Image](https://github.com/user-attachments/assets/7b67448a-5429-40e0-b170-2d7f51bbc4a6)
+
+
+
+![Image](https://github.com/user-attachments/assets/06335bf2-cb03-4c15-85a6-eaee06157df1)
+
+
+
+
+![Image](https://github.com/user-attachments/assets/76cc1fb9-24d9-4d8f-b745-c5f8c321ec87)
+
+
 
 
 
@@ -14,8 +39,8 @@
 # Functions
 
 #Admin
-Create Admin account using following command
-py manage.py createsuperuser
+1.Create Admin account using following command
+2. py manage.py createsuperuser
 After Login, can see Unit of blood of each blood group available, Number Of Donor, Number of blood request, Number of approved request, Total Unit of blood on Dashboard.
 Can View, Update, Delete Donor.
 Can View, Update, Delete Patient.
